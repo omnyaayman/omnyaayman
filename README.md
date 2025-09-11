@@ -30,6 +30,21 @@ My goal is to apply analytical and technical skills to solve real-world problems
 
 ---
 
+
+## 📜 Certifications  
+
+- **Getting Started with Deep Learning** – NVIDIA  
+  📅 *Issued Aug 2025*  
+  🆔 Credential ID: BJjLSJSq_C6eOBaeFBrvA  
+
+- **Introduction to Programming Using Python** – American Board of Professional Psychology  
+  📅 *Issued Dec 2023*  
+  🆔 Credential ID: 0018153  
+
+- **Data Analysis** – Simplilearn  
+  🆔 Credential ID: 8958586
+
+---
 ## 📫 Contact Me
 📧 **omnyaayman033@gmail.com**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/omnya-ayman-945223375)
