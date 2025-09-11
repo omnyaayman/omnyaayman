@@ -7,12 +7,10 @@
 ---
 
 ## 🌟 About Me
-Hi, I'm **Omnya Ayman**, a third-year student at the Faculty of Computers and Information, Data Science Department, **Helwan National University**.  
-I have studied in both **Arabic** and **English** throughout my education, and I use both languages daily at university and in my personal life.  
+I'm **Omnya Ayman**, a third-year student at the Faculty of Computers and Information, Data Science Department, **Helwan National University**.  
 
-- 🌐 I prefer **English** for academic and technical purposes, especially in programming and research.  
-- 🏠 I use **Arabic** more at home and in the community.  
-- 📊 I have strong skills in **Data Analysis** and **Machine Learning**.  
+I am passionate about **Data Science, Data Analysis, Machine Learning, and Data Visualization**.  
+My goal is to apply analytical and technical skills to solve real-world problems and gain deeper insights from data.  
 
 ---
 
