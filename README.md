@@ -61,6 +61,7 @@ I enjoy solving problems, exploring new technologies, and turning data into mean
 - **Machine learning** - National Telecommunications Institute
   📅 *Issued Aug 2025*
   🆔 Credential ID: 248986
+
   
 ---
 
