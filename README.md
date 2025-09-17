@@ -55,10 +55,12 @@ I enjoy solving problems, exploring new technologies, and turning data into mean
   🆔 Credential ID: 0018153  
 
 - **Data Analysis** – Simplilearn
+  
   📅 *Issued Sep 2025*
   🆔 Credential ID: 8958586
 
 - **Machine learning** - National Telecommunications Institute
+  
   📅 *Issued Aug 2025*
   🆔 Credential ID: 248986
 
