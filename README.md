@@ -70,7 +70,11 @@ I enjoy solving problems, exploring new technologies, and turning data into mean
   
   🆔 Credential ID: 248986
 
+  - **International Computer Drivers License** - Cairo University
   
+  📅 ISSued Aug 2025*
+
+  🆔 Credential ID: 0277453
 ---
 
 ## 📫 Contact Me  
