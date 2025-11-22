@@ -48,31 +48,31 @@ I enjoy solving problems, exploring new technologies, and turning data into mean
 
 - **Getting Started with Deep Learning** – NVIDIA
  
-  📅 *Issued Aug 2025*
+  📅 *Issued Aug 2025
   
   🆔 Credential ID: BJjLSJSq_C6eOBaeFBrvA  
 
 - **Introduction to Programming Using Python** – American Board of Professional Psychology
  
-  📅 *Issued Dec 2023*
+  📅 *Issued Dec 2023
   
   🆔 Credential ID: 0018153  
 
 - **Data Analysis** – Simplilearn
   
-  📅 *Issued Sep 2025*
+  📅 *Issued Sep 2025
   
   🆔 Credential ID: 8958586
 
 - **Machine learning** - National Telecommunications Institute
   
-  📅 *Issued Aug 2025*
+  📅 *Issued Aug 2025
   
   🆔 Credential ID: 248986
 
 - **International Computer Drivers License** - Cairo University
   
-  📅 ISSued Aug 2025*
+  📅 ISSued Aug 2025
 
   🆔 Credential ID: 0277453
 ---
