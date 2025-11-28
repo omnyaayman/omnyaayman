@@ -9,7 +9,7 @@
 
 ### 🌸 About Me
 - 🎓 Computer Science Student at Helwan National University  
-- 💡 Passionate about Machine Learning, Data Analysis, and AI Applications  
+- 💡 Passionate about Machine Learning, Data Analysis, Data Engineer and AI Applications  
 - 📊 Currently building projects using Python, ML, and Data Visualization tools  
 - 📬 How to reach me: *omnyaayman033@gmail.com*  
 
