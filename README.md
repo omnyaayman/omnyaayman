@@ -1,15 +1,16 @@
-# 👩‍💻 Omnya Ayman
-
-🎓 **Data Scientist Engineering**  
-📚 Third-year student at Faculty of Computers and Information, **Data Science Department**  
-🏫 **Helwan National University**  
+<h1 align="center">👋 Hi, I'm Omnya Ayman</h1>
+<h3 align="center">Data Science Student | ML & AI Enthusiast</h3>
 
 ---
 
-## 🌟 About Me
-Hi, I'm **Omnya Ayman** 👋  
-A passionate **Data Science student** from Egypt, interested in **Machine Learning, Data Analysis, and AI applications**.  
-I enjoy solving problems, exploring new technologies, and turning data into meaningful insights.  
+### 🌸 About Me
+- 🎓 Computer Science Student at Helwan National University  
+- 💡 Passionate about Machine Learning, Data Analysis, and AI Applications  
+- 📊 Currently building projects using Python, ML, and Data Visualization tools  
+- 📬 How to reach me: *omnyaayman033@gmail.com*  
+
+
+
 
 ---
 
@@ -44,33 +45,8 @@ I enjoy solving problems, exploring new technologies, and turning data into mean
 
 ---
 
-## 📜 Certifications  
 
-- **Getting Started with Deep Learning** – NVIDIA
- 
-  📅 *Issued Aug 2025
-  
-  🆔 Credential ID: BJjLSJSq_C6eOBaeFBrvA  
 
-- **Introduction to Programming Using Python** – American Board of Professional Psychology
- 
-  📅 *Issued Dec 2023
-  
-  🆔 Credential ID: 0018153  
-
-- **Data Analysis** – Simplilearn
-  
-  📅 *Issued Sep 2025
-  
-  🆔 Credential ID: 8958586
-
-- **Machine learning** - National Telecommunications Institute
-  
-  📅 *Issued Aug 2025
-  
-  🆔 Credential ID: 248986
-
-- **International Computer Drivers License** - Cairo University
   
   📅 ISSued Aug 2025
 
