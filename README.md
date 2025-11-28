@@ -1,14 +1,22 @@
+<div align="center">
+  <h1>Hi, I'm Omnya Ayman 👋</h1>
+  <h3>Data Science Student</h3>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BD7CFF&size=38&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omnya+Ayman+👋" />
-</p>
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=D9B3FF&size=28&center=true&vCenter=true&width=600&lines=Data+Science+Student;(ML,+%26+AI)" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omnyaayman/omnyaayman/refs/heads/main/WhatsApp%20Image%202025-11-28%20at%2017.38.42_b60573fc.jpg"
-    width="250" />
-</p> 
+  <div>
+    <p>
+      🌸 Computer Science Student at Helwan National University<br>
+      💡 Passionate about ML, Data Analysis & AI Applications<br>
+      📬 Contact: omnyaayman033@gmail.com<br>
+    </p>
+  </div>
+
+  <img src="https://raw.githubusercontent.com/omnyaayman/omnyaayman/refs/heads/main/WhatsApp%20Image%202025-11-28%20at%2017.38.42_b60573fc.jpg " width="180" style="border-radius: 20px;" />
+
+</div>
+
 ---
 
 ### 🌸 About Me
