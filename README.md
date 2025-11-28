@@ -5,6 +5,10 @@
 <p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=D9B3FF&size=28&center=true&vCenter=true&width=600&lines=Data+Science+Student;(ML,+%26+AI)" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/9427aa62-98ba-49de-96e9-d44a1b278528"
+    width="250" />
+</p> 
 ---
 
 ### 🌸 About Me
