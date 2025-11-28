@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/9427aa62-98ba-49de-96e9-d44a1b278528"
+  <img src="https://raw.githubusercontent.com/omnyaayman/omnyaayman/refs/heads/main/WhatsApp%20Image%202025-11-28%20at%2017.38.42_b60573fc.jpg"
     width="250" />
 </p> 
 ---
