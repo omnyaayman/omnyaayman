@@ -1,5 +1,30 @@
-<h1 align="center">👋 Hi, I'm Omnya Ayman</h1>
-<h3 align="center">Data Science Student | ML & AI Enthusiast</h3>
+<h1 align="center" style="
+  font-size: 40px;
+  color: #b565f0;
+  animation: fadeSlide 3s infinite alternate;
+">
+  👋 Hi, I'm Omnya Ayman
+</h1>
+
+<h3 align="center" style="
+  color: #d9b3ff;
+  animation: fadeSlide 3s infinite alternate;
+">
+  Data Science Student | ML & AI Enthusiast
+</h3>
+
+<style>
+@keyframes fadeSlide {
+  0% {
+    opacity: 0.3;
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+}
+</style>
 
 ---
 
