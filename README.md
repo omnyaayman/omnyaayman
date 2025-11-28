@@ -1,10 +1,9 @@
->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=BD7CFF&size=38&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omnya+Ayman+👋" />
 </p>
 >
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=D9B3FF&size=28&center=true&vCenter=true&width=600&lines=Data+Science+Student;ML+%26+AI+Enthusiast+💜" />
+<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=D9B3FF&size=28&center=true&vCenter=true&width=600&lines=Data+Science+Student;ML+%26+AI+Enthusiast+💜" />
 </p>
 
 ---
