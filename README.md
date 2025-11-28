@@ -51,10 +51,7 @@
 
 
 
-  
-  📅 ISSued Aug 2025
 
-  🆔 Credential ID: 0277453
 ---
 
 ## 📫 Contact Me  
