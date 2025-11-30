@@ -1,24 +1,50 @@
+<!-- Animated Name -->
+<h1 align="center">
+  <span 
+       style="background: linear-gradient(to right, #ff512f, #dd2476, #ff512f);
+              -webkit-background-clip: text;
+              color: transparent;
+              animation: gradientMove 3s infinite;">
+    Hi, I'm Omnya Ayman 👋
+  </span>
+</h1>
 
+<style>
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
-<img src="  # Hi, I'm Omnya Ayman 👋🔥
+<br>
+
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-## About Me
+## 🌟 About Me  
 - 🎓 Computer Science Student at Helwan National University  
 - 🤖 Passionate about Machine Learning, Data Analysis, Data Engineering & AI  
-- 🛠 Currently building projects using Python, ML, and Data Visualization tools  
-- 📧 How to reach me: omnyaayman033@gmail.com  
+- 🛠 Currently building projects using Python, ML models, and Data Visualization tools  
+- 📬 Contact me: *omnyaayman033@gmail.com*  
+- 🌐 Always learning & pushing new ideas into action  
 
 </td>
+
 <td width="40%" align="center">
 
-<img src=" https://raw.githubusercontent.com/omnyaayman/omnyaayman/refs/heads/main/WhatsApp%20Image%202025-11-28%20at%2017.38.42_b60573fc.jpg " width="200" style="border-radius: 12px;">
-
+<img src="https://raw.githubusercontent.com/omnyaayman/omnyaayman/refs/heads/main/WhatsApp%20Image%202025-11-28%20at%2017.38.42_b60573fc.jpg" 
+     width="230" 
+     style="border-radius: 12px; border: 2px solid #ff9eb5;">
+<br>
 </td>
+
 </tr>
+</table>
+
+<br>
 
 
 
