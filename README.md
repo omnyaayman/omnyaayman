@@ -1,35 +1,5 @@
 
 
-### 🌸 About Me
-- 🎓 Computer Science Student at Helwan National University  
-- 💡 Passionate about Machine Learning, Data Analysis, Data Engineer and AI Applications  
-- 📊 Currently building projects using Python, ML, and Data Visualization tools  
-- 📬 How to reach me: *omnyaayman033@gmail.com*  
-
-# Hi, I'm Omnya Ayman 👋🔥
-
-<table>
-<tr>
-<td width="60%">
-
-</td>
-<td width="40%" align="center">
-
-<img src="# Hi, I'm Omnya Ayman 👋🔥
-
-<table>
-<tr>
-<td width="60%">
-
-## About Me
-- 🎓 Computer Science Student at Helwan National University  
-- 🤖 Passionate about Machine Learning, Data Analysis, Data Engineering & AI  
-- 🛠 Currently building projects using Python, ML, and Data Visualization tools  
-- 📧 How to reach me: omnyaayman033@gmail.com  
-
-</td>
-<td width="40%" align="center">
-
 <img src="  # Hi, I'm Omnya Ayman 👋🔥
 
 <table>
@@ -50,14 +20,6 @@
 </td>
 </tr>
 </table>  " width="200" style="border-radius: 12px;">
-
-</td>
-</tr>
-</table>" width="200" style="border-radius: 12px;">
-
-</td>
-</tr>
-</table>
 
 
 ---
