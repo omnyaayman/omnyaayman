@@ -19,7 +19,7 @@
 
 </td>
 </tr>
-</table>  " width="200" style="border-radius: 12px;">
+
 
 
 ---
