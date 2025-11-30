@@ -6,7 +6,7 @@
               color: transparent;
               animation: gradientMove 3s infinite;">
     Hi, I'm Omnya Ayman 👋
-  </span>
+  </span> 
 </h1>
 
 <style>
