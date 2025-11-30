@@ -1,25 +1,12 @@
-<!-- Animated Name -->
-<h1 align="center">
-  <span 
-       style="background: linear-gradient(to right, #ff512f, #dd2476, #ff512f);
-              -webkit-background-clip: text;
-              color: transparent;
-              animation: gradientMove 3s infinite;">
-    Hi, I'm Omnya Ayman 👋
-  </span> 
-</h1>
 
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=2500&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omnya+Ayman+%F0%9F%91%8B;Data+Science+Student;ML+%7C+AI+%7C+Data+Analysis+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <br>
 
-
+<!-- About Me + Image -->
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -38,15 +25,12 @@
 <img src="https://raw.githubusercontent.com/omnyaayman/omnyaayman/refs/heads/main/WhatsApp%20Image%202025-11-28%20at%2017.38.42_b60573fc.jpg" 
      width="230" 
      style="border-radius: 12px; border: 2px solid #ff9eb5;">
-<br>
-</td>
 
+</td>
 </tr>
 </table>
 
 <br>
-
-
 
 ---
 
