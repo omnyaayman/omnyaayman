@@ -5,7 +5,7 @@
 # Hi, I'm Omnya Ayman 👋  
 </td>
 <td>
-<img src="YOUR_IMAGE_LINK" width="200" style="border-radius: 12px;">
+<img src="https://raw.githubusercontent.com/omnyaayman/omnyaayman/refs/heads/main/WhatsApp%20Image%202025-11-28%20at%2017.38.42_b60573fc.jpg " width="200" style="border-radius: 12px;">
 
 </td>
 </tr>
