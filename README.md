@@ -67,7 +67,17 @@
 
 
 ## 🏆 Achievements & Badges  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omnyaayman&theme=radical&margin-w=15&margin-h=15)
+GitHub Trophies
+  <p align="left">
+  
+![trophy](https://github-profile-trophy-omnya.vercel.app/?username=omnyaayman&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+
+<br>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omnyaayman&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=omnyaayman&theme=highcontrast" height="125"/>
+  </p>
 
 
 
