@@ -50,7 +50,9 @@
 --- 
 
 🚀 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=radical)
+![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=radical)
+
+
 ---
 ## 🏆 Achievements & Badges  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omnyaayman&theme=radical&margin-w=15&margin-h=15)
