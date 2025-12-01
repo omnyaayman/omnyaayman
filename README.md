@@ -82,7 +82,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/omnyaayman/omnyaayman/blob/output/snake-dark.svg)
+![snake](https://github.com/omnyaayman/omnyaayman/blob/output/snake-dark.svg)
 
 ---
 
