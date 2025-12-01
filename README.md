@@ -66,8 +66,7 @@
 ---
 
 
-## 🏆 Achievements & Badges  
-## GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="left">
 
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=omnyaayman&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
