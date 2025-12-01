@@ -55,11 +55,20 @@
 
 
 ---
-## 🏆 Achievements & Badges  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omnyaayman&theme=radical&margin-w=15&margin-h=15)
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=omnyaayman&theme=radical&hide_border=false&border_radius=10" 
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
+
+## 🏆 Achievements & Badges  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omnyaayman&theme=radical&margin-w=15&margin-h=15)
 
 
 
