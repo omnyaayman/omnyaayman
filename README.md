@@ -49,17 +49,10 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="center">
-
-![Top
-
-Langs](https://github-readme-stats.vercel .app/api/top-langs/?username=omnyaayman &layout=compact&theme=radical)
-
-![Streak] (https://streak-stats.demolab.com ?user=omnyaayman&theme=radical&hide _border=false)
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omnyaayman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=radical)
 ---
 ## 🏆 Achievements & Badges  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omnyaayman&theme=radical&margin-w=15&margin-h=15)
