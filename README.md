@@ -53,10 +53,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omnyaayman&theme=radical) 
-
 ---
-
+![GitHub Streak](https://streak-stats.demolab.com?user=omnyaayman&theme=dark&hide_border=false&border_radius=10)
+---
 ## 🏆 Achievements & Badges  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omnyaayman&theme=radical&margin-w=15&margin-h=15)
 
