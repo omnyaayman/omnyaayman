@@ -81,10 +81,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake](https://github.com/omnyaayman/omnyaayman/blob/output/snake-dark.svg)
-
----
 
 ## 📫 Contact Me  
 
