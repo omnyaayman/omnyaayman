@@ -47,11 +47,10 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-009688?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 📊 GitHub Stats  
+--- 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omnyaayman&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=radical)
 ---
 ## 🏆 Achievements & Badges  
