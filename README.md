@@ -81,6 +81,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/omnyaayman/omnyaayman/blob/output/snake-dark.svg)
+
+---
+
 ## 📫 Contact Me  
 
 📧 **omnyaayman033@gmail.com**  
