@@ -58,7 +58,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=omnyaayman&theme=tokyonight)
 
 ---
 
