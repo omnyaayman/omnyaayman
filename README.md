@@ -57,11 +57,8 @@
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=omnyaayman&theme=radical&hide_border=false"
-  />
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
 
 ---
 
