@@ -49,16 +49,34 @@
 
 --- 
 
-## 🚀 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=dark&cache_seconds=1800)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=donut&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omnyaayman&show_icons=true&theme=tokyonight" height="160"/>
+</p>
 
 
 --- 
 
+
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=omnyaayman&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omnyaayman&theme=tokyonight" height="160"/>
+</p>
+
+
+---
+
+
+
+## 📈 Contribution Graph
+
+[![Omnya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omnyaayman&theme=tokyo-night)](https://github.com/omnyaayman)
+
+
 
 ---
 
