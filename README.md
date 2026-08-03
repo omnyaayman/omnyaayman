@@ -58,9 +58,9 @@
 --- 
 
 
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 
-<img src="https://streak-stats.demolab.com?user=omnyaayman&theme=tokyonight&hide_border=true" />
+[![Omnya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omnyaayman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
