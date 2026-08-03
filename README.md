@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=omnyaayman&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omnyaayman&show_icons=true&theme=tokyonight" />
 
 
 --- 
@@ -65,6 +65,13 @@
 
 ---
 
+
+## 🔝 Top Languages
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=tokyonight" />
+
+
+---
 
 ## 🏆 GitHub Trophies
 <p align="left">
