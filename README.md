@@ -52,10 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=donut&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=omnyaayman&show_icons=true&theme=tokyonight" height="160"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=omnyaayman&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 
 --- 
@@ -63,9 +60,7 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omnyaayman&theme=tokyonight" height="160"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=omnyaayman&theme=tokyonight&hide_border=true" />
 
 
 ---
