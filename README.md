@@ -68,7 +68,9 @@
 
 ## 🔝 Top Languages
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=tokyonight" height="220"/>
+</p>
 
 
 ---
