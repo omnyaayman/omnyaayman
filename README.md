@@ -12,7 +12,7 @@
 <td width="60%" valign="top">
 
 ## 🌟 About Me  
-- 🎓 Computer Science Student at Helwan National University  
+- 🎓 Computer Science Student at Helwan National University
 - 🤖 Passionate about Machine Learning, Data Analysis, Data Engineering & AI  
 - 🛠 Currently building projects using Python, ML models, and Data Visualization tools  
 - 🌐 Always learning & pushing new ideas into action  
