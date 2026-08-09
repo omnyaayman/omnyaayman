@@ -49,10 +49,11 @@
 
 --- 
 
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=omnyaayman&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omnyaayman&theme=tokyonight" height="180"/>
+</p>
 
 
 --- 
@@ -69,7 +70,7 @@
 ## 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnyaayman&layout=compact&theme=tokyonight" height="220"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omnyaayman&theme=tokyonight" height="180"/>
 </p>
 
 
