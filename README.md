@@ -56,16 +56,6 @@
 </p>
 
 
---- 
-
-
-## 📊 Coding Activity Rhythm
-
-<p align="center">
-  <img src="./assets/rhythm.dark.svg"
-       width="100%"
-       alt="Coding Activity Rhythm">
-</p>
 
 
 ---
