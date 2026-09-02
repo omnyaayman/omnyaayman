@@ -59,9 +59,9 @@
 --- 
 
 
-## 👀 Profile Activity
+## 🌌 My GitHub Skyline
 
-![Profile Views](https://komarev.com/ghpvc/?username=omnyaayman&color=blueviolet&style=for-the-badge)
+![GitHub Skyline](https://skyline.github.com/omnyaayman)
 
 
 ---
