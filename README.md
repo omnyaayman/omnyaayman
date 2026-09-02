@@ -59,9 +59,9 @@
 --- 
 
 
-## 🌌 My GitHub Skyline
+## ⏰ Coding Habits
 
-![GitHub Skyline](https://skyline.github.com/omnyaayman)
+![Coding Habits](https://github-readme-stats.vercel.app/api/wakatime?username=omnyaayman&theme=tokyonight&hide_border=true)
 
 
 ---
