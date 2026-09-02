@@ -59,12 +59,12 @@
 --- 
 
 
-## 🔥 GitHub Contribution Streak
+## 📊 Coding Activity Rhythm
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omnyaayman&theme=tokyonight&hide_border=true"
+  <img src="./assets/rhythm.dark.svg"
        width="100%"
-       alt="GitHub Contribution Streak">
+       alt="Coding Activity Rhythm">
 </p>
 
 
