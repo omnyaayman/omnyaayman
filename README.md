@@ -59,9 +59,13 @@
 --- 
 
 
-## ⏰ Coding Habits
+## 🔥 GitHub Contribution Streak
 
-![Coding Habits](https://github-readme-stats.vercel.app/api/wakatime?username=omnyaayman&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omnyaayman&theme=tokyonight&hide_border=true"
+       width="100%"
+       alt="GitHub Contribution Streak">
+</p>
 
 
 ---
