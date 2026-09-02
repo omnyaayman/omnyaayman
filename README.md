@@ -59,9 +59,9 @@
 --- 
 
 
-## 📈 Contribution Graph
+## 👀 Profile Activity
 
-[![Omnya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omnyaayman&theme=tokyo-night)](https://github.com/omnyaayman)
+![Profile Views](https://komarev.com/ghpvc/?username=omnyaayman&color=blueviolet&style=for-the-badge)
 
 
 ---
